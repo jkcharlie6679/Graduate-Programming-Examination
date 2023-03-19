@@ -1,5 +1,4 @@
 /*
- * 
  * # Prefix expression evaluation
  * 
  * Time Limit: 30 sec
