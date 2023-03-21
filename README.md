@@ -7,5 +7,12 @@ It can be represent the number of full binary trees with **n+1** leaves, or, equ
 
 ## Josephus Problem
 
-To be edit..
+To be edit...
 
+## Fermat vs. Pythagoras
+
+To be edit...
+
+## The Spot Game
+
+To be edit...
